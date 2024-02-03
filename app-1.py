@@ -59,6 +59,7 @@ def main():
     st.success(prediction)
 
     st.divider()
+    st.subheader("Made by Siddhartha Manu")
 
 if __name__ == '__main__':
     main()
